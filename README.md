@@ -10,7 +10,7 @@ I've created a `superuser`named `admin2` whose password is also `admin2` (xD), y
 
 ## Quick start
 
-1. In the terminal go to mysite directory and activate the virtual environment `source env/bin/activate `, if django isn't installed you can do it with command `pip3 install django`
+1. In the terminal go to mysite directory and activate the virtual environment `source env/bin/activate ` (if the terminal don't recognize it you can create it again `virtualenv env') , if django isn't installed you can do it with command `pip3 install django`
 
 2. Start the server `python manage.py runserver`
 
